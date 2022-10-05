@@ -78,7 +78,7 @@ h3{
     
 }
 .box_d:hover {
-    box-shadow: 15px 20px 20px 15px lightblue inset; 
+    box-shadow: 15px 20px 20px 15px blue inset; 
 }
 .box_e {
     transition: box-shadow .3s;
